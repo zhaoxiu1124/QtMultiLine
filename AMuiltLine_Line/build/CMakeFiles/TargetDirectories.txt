@@ -1,4 +1,0 @@
-/home/yfei/ycstation/PCWorking/2pcl_svm/1Ki_svm/src/SlefDriving/agv-qt/stCarCtrl/back/AMuiltLine/build/CMakeFiles/edit_cache.dir
-/home/yfei/ycstation/PCWorking/2pcl_svm/1Ki_svm/src/SlefDriving/agv-qt/stCarCtrl/back/AMuiltLine/build/CMakeFiles/rebuild_cache.dir
-/home/yfei/ycstation/PCWorking/2pcl_svm/1Ki_svm/src/SlefDriving/agv-qt/stCarCtrl/back/AMuiltLine/build/CMakeFiles/stCarCtrl.dir
-/home/yfei/ycstation/PCWorking/2pcl_svm/1Ki_svm/src/SlefDriving/agv-qt/stCarCtrl/back/AMuiltLine/build/CMakeFiles/stCarCtrl_automoc.dir
