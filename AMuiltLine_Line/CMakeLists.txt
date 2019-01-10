@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.5)
 
 add_definitions("-std=c++11")
 
-project(stCar)
+project(line)
 
 # QT 创建UI
 # Find includes in corresponding build directories
@@ -14,10 +14,11 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTOUIC ON)
 
 find_package(Qt5Widgets CONFIG REQUIRED)
+find_package(Qt5Charts CONFIG REQUIRED)
 find_package(Qt5 REQUIRED COMPONENTS Core Gui Widgets Charts)
 
 
-set(BIN_NAME stCarCtrl)
+set(BIN_NAME line)
 
 file(GLOB project_src *.cpp *.cc *.ui)
 
